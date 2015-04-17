@@ -1,0 +1,50 @@
+p {
+	text-align: center;
+	background-color:#A3C7B2;
+    color:black;
+    text-align:center;
+    padding:5px; 
+width, height: 200em;
+}
+
+ul {
+	background-color:grey;
+    color:white;
+    text-align:center;
+}
+
+.listone {
+	padding-top: 20px;
+}
+.listtwo {
+	padding-top: 20px;
+}
+.listthree {
+	padding-top: 20px;
+}
+
+h3 {
+	color: black;
+}
+
+body{
+	background-color: #A3C7B2;
+	font-size: 35px;
+}
+ header {
+ background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px; 
+
+}
+
+.subheadline {
+ background-color:grey;
+    color:white;
+    text-align:center;
+    padding:5px; 
+width, height: 200em;
+background: rgba(255,0,0,0.4)  ;
+
+}
